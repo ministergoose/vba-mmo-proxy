@@ -87,7 +87,7 @@ void agbPrintFlush()
 
   //u8 *data = &rom[address];
 
-  u16 value;
+  //u16 value;
   char c;
   char s[2];
   while(get != put) {

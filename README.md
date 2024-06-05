@@ -1,5 +1,7 @@
 # vba-mmo-proxy
 
+![main](https://github.com/ministergoose/vba-mmo-proxy/actions/workflows/main.yml/badge.svg)
+
 Integrating [gba-mmo-proxy](https://github.com/maciel310/gba-mmo-proxy) into the VBA 1.7.2 emulator.
 
 ## Compiling
